@@ -1,0 +1,2 @@
+pyflakes.py:2:1 'from random import *' used; unable to detect undefined names
+pyflakes.py:5:13 'randint' may be undefined, or defined from star imports: random

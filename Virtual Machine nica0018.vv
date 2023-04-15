@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=Virtual Machine nica0018
+host=one-dell2
+port=10302
+proxy=http://one-frontend:29876?token=ul9sqkl56o0vj2qzahcq
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
